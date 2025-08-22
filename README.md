@@ -39,7 +39,7 @@ This project demonstrates an end-to-end Excel dashboard designed to analyze Vrin
 
 ## Dashboard Preview
 
-![Vrindha Store Dashboard](vrindha.PNG)
+![Vrindha Store Dashboard](vrinda.PNG)
 
 ---
 
