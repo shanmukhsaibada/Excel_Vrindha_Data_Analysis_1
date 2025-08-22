@@ -7,8 +7,9 @@ This project demonstrates an end-to-end Excel dashboard designed to analyze Vrin
 
 ## Steps Covered
 1. Project Intro  
-   - Defined objectives and expected outcomes of the dashboard.  
-
+   - Defined objectives and expected outcomes of the dashboard.
+   - The Datasets consist of 65000+ rows.
+     
 2. Sample Questions  
    - Identified key business questions such as:  
      - Which sales channels perform best?  
